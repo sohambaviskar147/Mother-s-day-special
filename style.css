@@ -1,0 +1,20 @@
+img{
+    width: 800px;
+}
+h1{
+    font-family:serif;
+    color:firebrick; 
+  }
+  h2{
+    font-family:cursive;
+    color:white;
+  }
+  body{
+    background-color:gray;
+    text-align:center; 
+  }
+  h3{
+    font-family:monospace;
+    color:orange;
+  }
+  
